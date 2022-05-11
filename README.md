@@ -24,19 +24,19 @@
 
 <body>
 
-<img src="https://adityabhagat865.github.io/a/i/1.png">
+<img src="https://adityabhagat895.github.io/a/i/1.png">
 
-<img src="https://adityabhagat865.github.io/a/i/2.png">
+<img src="https://adityabhagat895.github.io/a/i/2.png">
 
-<img src="https://adityabhagat865.github.io/a/i/3.png">
+<img src="https://adityabhagat895.github.io/a/i/3.png">
 
-<img src="https://adityabhagat865.github.io/a/i/4.png">
+<img src="https://adityabhagat895.github.io/a/i/4.png">
 
-<img src="https://adityabhagat865.github.io/a/i/7.png">
+<img src="https://adityabhagat895.github.io/a/i/7.png">
 
-<img src="https://adityabhagat865.github.io/a/i/6.png">
+<img src="https://adityabhagat895.github.io/a/i/6.png">
 
-<img src="https://adityabhagat865.github.io/a/i/8.png">
+<img src="https://adityabhagat895.github.io/a/i/8.png">
 
 </body>
 
